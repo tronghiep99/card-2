@@ -73,7 +73,7 @@ body {
 }
 
 .btn__text {
-    color: #dbdde2;
+    color: git dbdde2;
 }
 
 .btn__price1 b {
@@ -213,10 +213,6 @@ li:last-child {
     cursor: pointer;
 }
 
-#price1 {
-    background-color: #2c2e3d;
-}
-
 .main__content {
     font-family: 'Montserrat', sans-serif;
     font-family: 'Open Sans', sans-serif;
@@ -253,7 +249,7 @@ li:last-child {
 }
 
 @media screen and (max-width: 740px) {
-    .wrap-card {
+    .wrap__card {
         /* width: 100%;
          */
         flex-direction: column;
